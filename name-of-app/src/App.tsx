@@ -10,7 +10,7 @@ const  App:React.FC = () => {
       <Route path='/Mainpage' element={<Mainpage />}/>
     </Routes>
     </BrowserRouter>
-  )
+    )
 }
 
 export default App
